@@ -1,0 +1,9 @@
+name = CKStyle
+description = Adds style settings that can be used by the CKEditor.
+package = User interface
+project = "ckstyle"
+
+core = 7.x
+version = 7.x-1.4
+
+files[] = ckstyle.module

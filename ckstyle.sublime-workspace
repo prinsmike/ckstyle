@@ -1,0 +1,602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pr",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Nul",
+				"NullString	struct ʈ"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"print",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Print",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Spri",
+				"Sprintf	string ƒ"
+			],
+			[
+				"bootstrap",
+				"bootstrap-modal"
+			],
+			[
+				"Sprint",
+				"Sprintln	string ƒ"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"rece",
+				"receivedFix	 ν"
+			],
+			[
+				"F",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"fP",
+				"Fprint	n int, err error ƒ"
+			],
+			[
+				"S",
+				"Sprintln	string ƒ"
+			],
+			[
+				"e",
+				"e	*Error ν"
+			],
+			[
+				"New",
+				"NewReader	*bufio.Reader ƒ"
+			],
+			[
+				"Respons",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Handle",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"Hand",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"packa",
+				"package main	package main ʂ"
+			],
+			[
+				"EOF",
+				"ErrUnexpectedEOF	error ν"
+			],
+			[
+				"Write",
+				"WriteByte	error ƒ"
+			],
+			[
+				"Spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"Std",
+				"Stdout	*os.File ν"
+			],
+			[
+				"ModeS",
+				"ModeSymlink	 Ɩ"
+			],
+			[
+				"Read",
+				"ReadLine	line []byte, isPrefix bool, err error ƒ"
+			],
+			[
+				"line",
+				"lineReader	*bufio.Reader ν"
+			],
+			[
+				"NewReader",
+				"NewReaderSize	*bufio.Reader ƒ"
+			],
+			[
+				"func",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"Mkdi",
+				"MkdirAll	error ƒ"
+			],
+			[
+				"pass",
+				"passLen	uint ν"
+			],
+			[
+				"pw",
+				"pwLen	int ν"
+			],
+			[
+				"Str",
+				"StringVar	 ƒ"
+			],
+			[
+				"Boo",
+				"BoolVar	 ƒ"
+			],
+			[
+				"In",
+				"IntVar	 ƒ"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"pack",
+				"package main	package main ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"selected_items":
+		[
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"gosub",
+				"GoSublime: Add/Remove package"
+			],
+			[
+				"gosubl",
+				"GoSublime: Share (on play.golang.org)"
+			],
+			[
+				"gosu",
+				"GoSublime: Browse Declarations"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"Fet",
+				"Fetch: File"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"Fetch",
+				"Fetch: Manage"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"snippet",
+				"Snippet: main()"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax go",
+				"Set Syntax: Go"
+			],
+			[
+				"syntax javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax: j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mike/websitemakers/websites/mycityinfo/modules.md",
+		"/myfiles/Documents/Work/test.html",
+		"/myfiles/Documents/Work/aegir-migration.txt",
+		"/myfiles/Documents/Work/mycityinfo.txt",
+		"/myfiles/Documents/Work/mypolokwane-migration/mypol.csv",
+		"/myfiles/Documents/Work/email-setup.md",
+		"/home/mike/websitemakers/makefiles/sftp-config.json",
+		"/home/mike/devel/julie/css/style.css",
+		"/home/mike/devel/julie/js/start.js",
+		"/home/mike/devel/julie/start.html",
+		"/home/mike/devel/bootstrap/Arch64LT/index.html",
+		"/home/mike/tmp/test.html",
+		"/home/mike/devel/tmp/aegir-migration.txt",
+		"/home/mike/Music/tmp/201308/best-electro-house-summer-august2013_song-list.txt",
+		"/home/mike/tmp/observer-dns-zone-file",
+		"/tmp/Observer.co.za DNS zone file",
+		"/myfiles/Documents/J/fb.txt",
+		"/home/mike/Books/tmp/Bukowski-readings/Charles Bukowski/Charles Bukowski - Bukowski Lives!/Bukowski Lives!.txt",
+		"/home/mike/Books/tmp/Bukowski-readings/Charles Bukowski/1986 - Charles Bukowski reads 'Do You Use a Notebook'/Details.txt",
+		"/myfiles/Music/tmp/201308/best-electro-house-summer-august2013_song-list.txt",
+		"/home/mike/tmp/julie",
+		"/home/mike/Podcasts/podcasts.txt",
+		"/myfiles/Podcasts/podcasts.txt",
+		"/myfiles/Education/Creative-Writing/MIT-OCW_Writing-Workshop_SP.292/lake-erie_by-meriam-kotzin.md",
+		"/myfiles/Education/Creative-Writing/MIT-OCW_Writing-Workshop_SP.292/i-know-a-man_by-robert-creely.md",
+		"/myfiles/Education/Creative-Writing/MIT-OCW_Writing-Workshop_SP.292/aids.md",
+		"/myfiles/Education/Creative-Writing/MIT-OCW_Writing-Workshop_SP.292/the-river-merchants-wife.md",
+		"/home/mike/arch/sites/default/markdown/install-arch.md",
+		"/myfiles/Music/tmp/201306/The Pineapple Thief - All the Wars (2012) [Limited Edition] [2CD] [EAC-FLAC]/CD 1 - All the Wars/convert",
+		"/home/mike/go2",
+		"/myfiles/Documents/Games/Neverwinter/ticket-130520-001274",
+		"/home/mike/devel/go/mypol/mypol.go",
+		"/home/mike/.config/sublime-text-2/Packages/SFTP/SFTP.sublime-settings",
+		"/home/mike/devel/go/mypol/sftp-config.json",
+		"/home/mike/torrents-external/Books/Mathematics For Computer Science 2012 V413HAV/Read Me.txt",
+		"/home/mike/Downloads/AdvancedAuctionhouse/AdvancedAuctionhouse.toc",
+		"/home/mike/Downloads/KS_KillZone_WIP.xml",
+		"/home/mike/bak/router/config.txt",
+		"/myfiles/Downloads/KS_KillZone_WIP.xml",
+		"/myfiles/Downloads/KS_KillZone_WIP.",
+		"/myfiles/Documents/workexercise.txt",
+		"/home/mike/devel/bootstrap/Arch64LT/contact.html",
+		"/home/mike/devel/bootstrap/Arch64LT/our-approach.html",
+		"/home/mike/devel/bootstrap/Arch64LT/why-website.html",
+		"/home/mike/devel/bootstrap/Arch64LT/website-design.html",
+		"/home/mike/devel/bootstrap/Arch64LT/seo.html",
+		"/home/mike/devel/bootstrap/Arch64LT/social-media.html",
+		"/home/mike/Documents/rompw.txt",
+		"/home/mike/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+		"/home/mike/tmp/whywebsite.txt",
+		"/home/mike/devel/bootstrap/Arch64LT/css/bootstrap.css",
+		"/myfiles/Packages/ttf-yew-basturd/ttf-yew-basturd.install",
+		"/myfiles/Packages/ttf-yew-basturd/PKGBUILD",
+		"/myfiles/Packages/ttf-roughtrad/ttf-roughtrad.install",
+		"/myfiles/Packages/ttf-roughtrad/PKGBUILD",
+		"/myfiles/Packages/ttf-komika/ttf-komika.install",
+		"/myfiles/Packages/ttf-komika/PKGBUILD",
+		"/myfiles/Packages/ttf-flux/ttf-flux.install",
+		"/myfiles/Packages/ttf-flux/PKGBUILD",
+		"/myfiles/Packages/ttf-bebedera/ttf-bebedera.install",
+		"/myfiles/Packages/ttf-bebedera/PKGBUILD",
+		"/myfiles/Packages/ttf-architects-daughter/PKGBUILD",
+		"/myfiles/Packages/ttf-architects-daughter/ttf-architects-daughter.install",
+		"/home/mike/myfiles/Packages/ttf-architects-daughter/License.txt",
+		"/myfiles/Packages/ttf-blueprint/ttf-blueprint.install",
+		"/myfiles/Packages/ttf-blueprint/PKGBUILD",
+		"/home/mike/Downloads/fonts/BlueprintFonts/Yew-Basturd/Nyek! License.txt",
+		"/home/mike/Downloads/fonts/BlueprintFonts/Komika-Text/Komika.txt",
+		"/home/mike/Downloads/fonts/BlueprintFonts/Flux/Clayton Cowan Font License.txt",
+		"/home/mike/Downloads/fonts/BlueprintFonts/defharo_a-bebedera/OFL.txt",
+		"/home/mike/Downloads/fonts/BlueprintFonts/architects-daughter/Architects Daughter SIL OFL Font License.txt",
+		"/home/mike/Downloads/fonts/BlueprintFonts/archibald/fonts101.txt",
+		"/myfiles/Packages/ttf-djb-blueprint/PKGBUILD",
+		"/home/mike/Downloads/fonts/ttf-andika/PKGBUILD",
+		"/myfiles/Packages/ttf-djb-blueprint/ttf-djb-blueprint.install",
+		"/myfiles/Downloads/fonts/djb_blueprint/PKGBUILD",
+		"/home/mike/Downloads/fonts/ttf-ms-fonts/PKGBUILD",
+		"/myfiles/Downloads/fonts/djb_blueprint/dbaldwin-blueprint-TOU.txt",
+		"/home/mike/Downloads/fonts/djb_blueprint/dbaldwin-blueprint-TOU.txt",
+		"/home/mike/Downloads/fonts/READ ME.txt",
+		"/home/mike/Downloads/Mac OS X 10.8 Mountain Lion ISO Untouched/InstallESD Info.txt",
+		"/home/mike/tidbits/ath1.txt",
+		"/home/mike/devel/bootstrap/Arch64LT/sftp-config.json",
+		"/home/mike/go/src/github.com/prinsmike/GoVHostLog/insert_records/GoVHostLog_insert.go",
+		"/home/mike/go/src/github.com/prinsmike/GoVHostLog/insert_records/GoVHostLog.go",
+		"/home/mike/go/src/github.com/prinsmike/GoVHostLog/GoVHostLog.go",
+		"/home/mike/torrent",
+		"/home/mike/go/src/github.com/prinsmike/GoVHostLog/other_vhosts_access.log",
+		"/home/mike/go/src/github.com/prinsmike/GoVHostLog/.gitignore",
+		"/home/mike/tmp/polokwaneknights.css",
+		"/home/mike/devel/drupal/profiles/small_business/small_business.install",
+		"/home/mike/devel/drupal/modules/image_gallery/image_gallery.install",
+		"/home/mike/devel/drupal/profiles/website/website.install",
+		"/home/mike/devel/drupal/profiles/makefiles/small_business.make",
+		"/home/mike/devel/drupal/profiles/makefiles/.gitignore",
+		"/home/mike/devel/drupal/profiles/makefiles/advanced.make",
+		"/home/mike/devel/drupal/profiles/makefiles/starter.make",
+		"/home/mike/devel/drupal/profiles/makefiles/website.make",
+		"/home/mike/tmp/religious-little-einstein.txt",
+		"/home/mike/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/mike/.mozilla/firefox/bt7p5zzw.default/chrome/userContent.css",
+		"/home/mike/.mozilla/firefox/bt7p5zzw.default/chrome/userContent-example.css",
+		"/home/mike/tmp/deut.txt",
+		"/home/mike/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/mike/tmp/tmp.txt",
+		"/home/mike/myfiles/Videos/Education/Social-Media/Video2Brain - Learning Social Media Marketing A Video Introduction-SHooTERS (2013)/Readme.txt",
+		"/home/mike/devel/drupal/profiles/website/.gitignore",
+		"/home/mike/devel/drupal/profiles/makefiles/mycity.make",
+		"/home/mike/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/mike/.config/sublime-text-2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/home/mike/go/src/github.com/prinsmike/ex/init.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/builtin/makeslice.go",
+		"/home/mike/arch/sites/default/markdown/index.md",
+		"/home/mike/arch/sites/default/site.yaml",
+		"/home/mike/arch/sites/default/templates/index.tpl",
+		"/home/mike/arch-golang.txt",
+		"/home/mike/Desktop/archlinux-on-virtualbox.txt",
+		"/home/mike/arch/settings.yaml",
+		"/home/mike/arch-user.txt",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/bytes/resetbuffer.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/json/unmarshal.arbitrary.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/json/unmarshal.arbitrary2.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/mgo/numbers.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/mgo/multisort.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/mgo/limit.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/mgo/skip.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/mgo/ensureindex.go",
+		"/home/mike/gocode/src/github.com/prinsmike/ex/mgo/pagination.go"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ace",
+			"angular",
+			"simple",
+			"entityreference",
+			"data",
+			"bootstrap",
+			"already",
+			"/mike/bootstrap/Arch64LT",
+			".active",
+			".btn {",
+			".btn",
+			"img-circle",
+			"../assets/",
+			"val",
+			"valFix",
+			"received",
+			"full_html",
+			"msingi",
+			"super",
+			"Homoglyphs",
+			"SpecialLen",
+			"UpperOdds",
+			"UseUpper",
+			"numLen",
+			"passLen",
+			"passCount",
+			"fmt",
+			"Println",
+			"fmt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 100.0
+	},
+	"output.GsDepends-output":
+	{
+		"height": 118.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 118.0
+	},
+	"output.GsShell-share":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.gscommander:///home/mike/gocode/src/github.com/prinsmike/ex/passgo":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"mgo/mgotemplates.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/mike/websitemakers/makefiles/makefiles.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true
+}
